@@ -1,1 +1,1 @@
-BASE_URL = "https://poetrydb.org"
+BASE_URL = "https://petstore.swagger.io/v2"
